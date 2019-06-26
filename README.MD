@@ -1,9 +1,9 @@
 ## DESCRIÇÃO
 
-PACOTE CRIADO PARA ACELERAR O DESENVOLVIMENTO DE SISTEMAS COM LARAVEL E VUE.
+Componente Vue para mostrar flash menssagem.
 
 
-## INTALAÇÃO
+## INSTALAÇÃO
 
 1. composer require lsiqueira/flash
 
