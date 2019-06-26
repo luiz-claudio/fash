@@ -1,0 +1,18 @@
+{
+    "name": "lsiqueira/fash",
+    "description": "Componente vue para mensagem fash",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Claudio siqueira",
+            "email": "luizclaudiosiqueira2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lsiqueira\\fash\\": "src/"
+        }
+    }
+
+}
