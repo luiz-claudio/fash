@@ -31,9 +31,11 @@ Componente Vue para mostrar flash mensagem.
 
 # tipo 1 == sucess tipo 2 == alert
 
-<flash message="ola mundo"
-     tipo=1>
-</flash>
+
+# <flash message="ola mundo"
+#     tipo=1>
+# </flash>
+
 
 
 

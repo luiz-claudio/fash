@@ -1,6 +1,6 @@
 <?php
 // MyVendor\formulario-contato\src\FormularioContatoServiceProvider.php
-namespace lsiqueira\laziness;
+namespace lsiqueira\flash;
 use Illuminate\Support\ServiceProvider;
 class FlashServiceProvider extends ServiceProvider 
 {
