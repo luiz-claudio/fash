@@ -10,7 +10,7 @@ Componente Vue para mostrar flash mensagem.
 2. Importar a a lib no PROVIDER(config/app.php)
    
     'providers' => [
-        lsiqueira\fash\LazinessServiceProvider::class,
+        lsiqueira\fash\FlashServiceProvider::class,
     ]
 
 3. Publicar o componente VUE:
