@@ -1,6 +1,6 @@
 ## DESCRIÇÃO
 
-Componente Vue para mostrar flash menssagem.
+Componente Vue para mostrar flash mensagem.
 
 
 ## INSTALAÇÃO
